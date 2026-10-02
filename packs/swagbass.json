@@ -1,0 +1,29 @@
+{
+  "id": "swagbass",
+  "name": "Swagbass",
+  "author": "Karoryfer Samples",
+  "description": "A bass guitar with a Louis Vuitton fabric finish, with string release samples and noises.",
+  "source": "https://github.com/sfzinstruments/karoryfer.swagbass",
+  "license": "CC0-1.0",
+  "kind": "multisample",
+  "tags": [
+    "bass",
+    "guitar"
+  ],
+  "versions": [
+    {
+      "version": "1.001",
+      "asset": {
+        "url": "https://github.com/sfzinstruments/karoryfer.swagbass/releases/download/v1.001/Karoryfer.Swagbass.v1.001.zip",
+        "sha256": "4b4db964413be99a597da246651961e1c4dbb0004db49daccd11387c5f9a535a",
+        "size": 144579232,
+        "root": "Swagbass",
+        "files": 341,
+        "unpackedSize": 174246979,
+        "formats": [
+          "wav"
+        ]
+      }
+    }
+  ]
+}

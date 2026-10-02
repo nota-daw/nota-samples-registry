@@ -1,0 +1,27 @@
+{
+  "id": "swirly-drums",
+  "name": "Swirly Drums",
+  "author": "Karoryfer Samples",
+  "description": "Punk and indie drums and unusual percussion, played with brushes.",
+  "source": "https://github.com/sfzinstruments/karoryfer.swirly-drums",
+  "license": "CC0-1.0",
+  "kind": "one-shots",
+  "tags": [
+    "drums"
+  ],
+  "versions": [
+    {
+      "version": "1.104",
+      "asset": {
+        "url": "https://github.com/sfzinstruments/karoryfer.swirly-drums/releases/download/v1.104/Swirly.Drums_1104.zip",
+        "sha256": "dbeb1ad04052da1bada490ced8cc7d9fdd3b21ea90f7c6020269968b70f836c3",
+        "size": 868594745,
+        "files": 4796,
+        "unpackedSize": 1826756653,
+        "formats": [
+          "wav"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "tr808-fischer",
+  "name": "Roland TR-808 (Michael Fischer)",
+  "author": "Michael Fischer",
+  "description": "A classic analog TR-808 sampled across its knob settings: kicks, snares, toms, hats, cymbals, claps, cowbell and more.",
+  "source": "https://github.com/tidalcycles/sounds-tr808-fischer",
+  "license": "CC0-1.0",
+  "kind": "one-shots",
+  "tags": [
+    "drums",
+    "808",
+    "drum-machine"
+  ],
+  "notes": "Released as freeware by Michael Fischer in 1994; the CC0 license comes from the TidalCycles repository that hosts it.",
+  "versions": [
+    {
+      "version": "85fbecf",
+      "asset": {
+        "url": "https://github.com/tidalcycles/sounds-tr808-fischer/archive/85fbecf1bec32553395625ea659e2a56dfd7c0e1.zip",
+        "sha256": "3c315791e070972b4c50035b5ee511eb744d0db5980d984ea624eb222f4eb794",
+        "size": 7514792,
+        "root": "sounds-tr808-fischer-85fbecf1bec32553395625ea659e2a56dfd7c0e1",
+        "files": 116,
+        "unpackedSize": 12671398,
+        "formats": [
+          "wav"
+        ]
+      }
+    }
+  ]
+}

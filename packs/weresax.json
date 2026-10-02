@@ -1,0 +1,29 @@
+{
+  "id": "weresax",
+  "name": "Weresax",
+  "author": "Karoryfer Samples",
+  "description": "An alto saxophone.",
+  "source": "https://github.com/sfzinstruments/karoryfer.weresax",
+  "license": "CC0-1.0",
+  "kind": "multisample",
+  "tags": [
+    "saxophone",
+    "wind"
+  ],
+  "versions": [
+    {
+      "version": "1.003",
+      "asset": {
+        "url": "https://github.com/sfzinstruments/karoryfer.weresax/releases/download/v1.003/Karoryfer.Weresax.v.1.003.zip",
+        "sha256": "916dcb44b2ec8f03a3578c374dd1f1fdaa43e9e0264d921f65da2a339539d2ba",
+        "size": 197565664,
+        "root": "Weresax",
+        "files": 256,
+        "unpackedSize": 203626417,
+        "formats": [
+          "wav"
+        ]
+      }
+    }
+  ]
+}

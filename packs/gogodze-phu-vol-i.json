@@ -1,0 +1,29 @@
+{
+  "id": "gogodze-phu-vol-i",
+  "name": "Gogodze Phu Vol. I",
+  "author": "Karoryfer Samples",
+  "description": "Five bobobo drums from Ghana and a cajon.",
+  "source": "https://github.com/sfzinstruments/karoryfer.gogodze-phu-vol-i",
+  "license": "CC0-1.0",
+  "kind": "one-shots",
+  "tags": [
+    "synth",
+    "drone"
+  ],
+  "versions": [
+    {
+      "version": "1.001",
+      "asset": {
+        "url": "https://github.com/sfzinstruments/karoryfer.gogodze-phu-vol-i/releases/download/v1.001/Karoryfer.Gogodze_Phu_vol_I.v1.001.zip",
+        "sha256": "ff33fb8ba5495990a1d57a9f84031bf47158ef1b7c18b0b11307f1a8e6238be4",
+        "size": 31249753,
+        "root": "Gogodze_Phu_vol_I",
+        "files": 544,
+        "unpackedSize": 92764182,
+        "formats": [
+          "wav"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "cello",
+  "name": "Karoryfer x bigcat Cello",
+  "author": "Karoryfer Samples, bigcat instruments",
+  "description": "A cello played by Kamila Borowiak: sustains, staccato and pizzicato.",
+  "source": "https://github.com/sfzinstruments/karoryfer-bigcat.cello",
+  "license": "CC0-1.0",
+  "kind": "multisample",
+  "tags": [
+    "strings",
+    "cello"
+  ],
+  "versions": [
+    {
+      "version": "1.001",
+      "asset": {
+        "url": "https://github.com/sfzinstruments/karoryfer-bigcat.cello/releases/download/v1.001/Karoryfer_Bigcat_cello.v1.001.zip",
+        "sha256": "f340e2afc161de70b0484cda964f2e17e5b0c1e271fc18ade6a21bd0cc3c5e22",
+        "size": 132605500,
+        "root": "Karoryfer_Bigcat_cello",
+        "files": 479,
+        "unpackedSize": 142714504,
+        "formats": [
+          "wav"
+        ]
+      }
+    }
+  ]
+}

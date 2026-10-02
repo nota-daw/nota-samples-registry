@@ -1,0 +1,29 @@
+{
+  "id": "frankensnare",
+  "name": "Frankensnare",
+  "author": "Karoryfer Samples",
+  "description": "A collection of snare drums, from small to huge.",
+  "source": "https://github.com/sfzinstruments/karoryfer.frankensnare",
+  "license": "CC0-1.0",
+  "kind": "one-shots",
+  "tags": [
+    "drums",
+    "snare"
+  ],
+  "versions": [
+    {
+      "version": "2.100",
+      "asset": {
+        "url": "https://github.com/sfzinstruments/karoryfer.frankensnare/releases/download/v2.100/Frankensnare_2100.zip",
+        "sha256": "03defbfbc5232a5eafa69e839e43b33f8e0746ea9a098fc2b4f411e8112a732a",
+        "size": 365639598,
+        "files": 3580,
+        "unpackedSize": 436199553,
+        "formats": [
+          "flac",
+          "wav"
+        ]
+      }
+    }
+  ]
+}

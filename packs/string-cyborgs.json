@@ -1,0 +1,28 @@
+{
+  "id": "string-cyborgs",
+  "name": "String Cyborgs",
+  "author": "Karoryfer Samples",
+  "description": "Bowed strings recorded to be used as oscillators in a subtractive synth.",
+  "source": "https://github.com/sfzinstruments/karoryfer.string-cyborgs",
+  "license": "CC0-1.0",
+  "kind": "multisample",
+  "tags": [
+    "strings"
+  ],
+  "versions": [
+    {
+      "version": "1.001",
+      "asset": {
+        "url": "https://github.com/sfzinstruments/karoryfer.string-cyborgs/releases/download/v1.001/Karoryfer.String_Cyborgs.v1.001.zip",
+        "sha256": "92974bfef97c7dfc0e50abb9a262d6d39b8551efa5750b5fce5a62cb532da3e2",
+        "size": 63765812,
+        "root": "String_Cyborgs",
+        "files": 224,
+        "unpackedSize": 75981440,
+        "formats": [
+          "wav"
+        ]
+      }
+    }
+  ]
+}

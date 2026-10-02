@@ -1,0 +1,28 @@
+{
+  "id": "caveman-cosmonaut",
+  "name": "Caveman Cosmonaut",
+  "author": "Karoryfer Samples",
+  "description": "An Unitra B-11 transistor organ turned into a virtual analog synth.",
+  "source": "https://github.com/sfzinstruments/karoryfer.caveman-cosmonaut",
+  "license": "CC0-1.0",
+  "kind": "multisample",
+  "tags": [
+    "synth"
+  ],
+  "versions": [
+    {
+      "version": "1.001",
+      "asset": {
+        "url": "https://github.com/sfzinstruments/karoryfer.caveman-cosmonaut/releases/download/v1.001/Karoryfer.Caveman_Cosmonaut.v1.001.zip",
+        "sha256": "e494eb1656b9d637473a9782b68dacc33ea7edc535369965d333c4db5fb3fe21",
+        "size": 97546345,
+        "root": "Caveman_Cosmonaut",
+        "files": 370,
+        "unpackedSize": 109170017,
+        "formats": [
+          "wav"
+        ]
+      }
+    }
+  ]
+}

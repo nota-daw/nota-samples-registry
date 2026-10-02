@@ -1,0 +1,29 @@
+{
+  "id": "fashionbass",
+  "name": "Fashionbass",
+  "author": "Karoryfer Samples",
+  "description": "A Killer KB-Simmony bass guitar, with string release samples and noises.",
+  "source": "https://github.com/sfzinstruments/karoryfer.fashionbass",
+  "license": "CC0-1.0",
+  "kind": "multisample",
+  "tags": [
+    "bass",
+    "guitar"
+  ],
+  "versions": [
+    {
+      "version": "1.001",
+      "asset": {
+        "url": "https://github.com/sfzinstruments/karoryfer.fashionbass/releases/download/v1.001/Karoryfer.Fashionbass.v1.001.zip",
+        "sha256": "3beaa956b8ff97d9f0e7f31d263453fe113a2d07d4be99146b3590c8f5dd5442",
+        "size": 316328061,
+        "root": "Fashionbass",
+        "files": 426,
+        "unpackedSize": 345335438,
+        "formats": [
+          "wav"
+        ]
+      }
+    }
+  ]
+}

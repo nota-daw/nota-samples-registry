@@ -1,0 +1,29 @@
+{
+  "id": "scarypiano",
+  "name": "Scarypiano",
+  "author": "Karoryfer Samples",
+  "description": "The University of Iowa's public domain piano samples, warped into something eerie.",
+  "source": "https://github.com/sfzinstruments/karoryfer.scarypiano",
+  "license": "CC0-1.0",
+  "kind": "multisample",
+  "tags": [
+    "piano",
+    "keys"
+  ],
+  "versions": [
+    {
+      "version": "1.002",
+      "asset": {
+        "url": "https://github.com/sfzinstruments/karoryfer.scarypiano/releases/download/v1.002/Karoryfer.Scarypiano.v1.002.zip",
+        "sha256": "559170a198932aeb41d1eb255e48b920f0479efd425e01295ad449a7d6e5c625",
+        "size": 359098429,
+        "root": "Scarypiano",
+        "files": 430,
+        "unpackedSize": 586874853,
+        "formats": [
+          "wav"
+        ]
+      }
+    }
+  ]
+}

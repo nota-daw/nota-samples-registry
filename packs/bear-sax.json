@@ -1,0 +1,29 @@
+{
+  "id": "bear-sax",
+  "name": "Bear Sax",
+  "author": "Karoryfer Samples",
+  "description": "A 1926 Conn baritone saxophone.",
+  "source": "https://github.com/sfzinstruments/karoryfer.bear-sax",
+  "license": "CC0-1.0",
+  "kind": "multisample",
+  "tags": [
+    "saxophone",
+    "wind"
+  ],
+  "versions": [
+    {
+      "version": "1.004",
+      "asset": {
+        "url": "https://github.com/sfzinstruments/karoryfer.bear-sax/releases/download/v1.004/Karoryfer.Bear_Sax.v1.004.zip",
+        "sha256": "66c28ea361c86943b2e2bcda6ca48cf105fec4f60a8f40e7c6bbf584be45c654",
+        "size": 131505201,
+        "root": "Bear_Sax",
+        "files": 755,
+        "unpackedSize": 146559956,
+        "formats": [
+          "wav"
+        ]
+      }
+    }
+  ]
+}

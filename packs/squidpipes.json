@@ -1,0 +1,29 @@
+{
+  "id": "squidpipes",
+  "name": "Squidpipes",
+  "author": "Karoryfer Samples",
+  "description": "Bagpipes with a large squid's mantle as the bag.",
+  "source": "https://github.com/sfzinstruments/karoryfer.squidpipes",
+  "license": "CC0-1.0",
+  "kind": "multisample",
+  "tags": [
+    "wind",
+    "pipes"
+  ],
+  "versions": [
+    {
+      "version": "1.001",
+      "asset": {
+        "url": "https://github.com/sfzinstruments/karoryfer.squidpipes/releases/download/v1.001/karoryfer.squidpipes-v1.001.zip",
+        "sha256": "0f8406e72e673209ad92274dbd57ece869d802a420ec0535092e87f63ff2921b",
+        "size": 44187394,
+        "root": "karoryfer.squidpipes-master",
+        "files": 420,
+        "unpackedSize": 53854479,
+        "formats": [
+          "wav"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "zamenhof-stickmusterstuch-error",
+  "name": "Zamenhof Stickmusterstuch Error",
+  "author": "Karoryfer Samples",
+  "description": "Two glitchy, lo-fi sample-based instruments.",
+  "source": "https://github.com/sfzinstruments/zamenhof_stickmusterstuch_error",
+  "license": "CC0-1.0",
+  "kind": "multisample",
+  "tags": [
+    "synth",
+    "glitch"
+  ],
+  "versions": [
+    {
+      "version": "1.000",
+      "asset": {
+        "url": "https://github.com/sfzinstruments/zamenhof_stickmusterstuch_error/releases/download/v1.000/Zamenhof_Stickmusterstuch_Error.Eins_and_Zwei.v1.000.zip",
+        "sha256": "2aa67969c57eec81b4af43773686dbb4db32423a2fa4e5146a5dc6e276948ea7",
+        "size": 79010316,
+        "root": "Zamenhof_Stickmusterstuch_Error",
+        "files": 170,
+        "unpackedSize": 121111643,
+        "formats": [
+          "wav"
+        ]
+      }
+    }
+  ]
+}

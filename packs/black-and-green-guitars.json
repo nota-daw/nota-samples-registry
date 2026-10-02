@@ -1,0 +1,27 @@
+{
+  "id": "black-and-green-guitars",
+  "name": "Black And Green Guitars",
+  "author": "Karoryfer Samples",
+  "description": "A green Gretsch Anniversary and a black Hofner Club electric guitar, recorded by Brian Wood.",
+  "source": "https://github.com/sfzinstruments/karoryfer.black-and-green-guitars",
+  "license": "CC0-1.0",
+  "kind": "multisample",
+  "tags": [
+    "guitar"
+  ],
+  "versions": [
+    {
+      "version": "1.000",
+      "asset": {
+        "url": "https://github.com/sfzinstruments/karoryfer.black-and-green-guitars/releases/download/v1.000/Karoryfer_Black_And_Green_Guitars_1000.zip",
+        "sha256": "ba95221d32fb6386c5d0a0799b93904fd55520aca017c5f121da290075c140c0",
+        "size": 481838512,
+        "files": 1776,
+        "unpackedSize": 581531830,
+        "formats": [
+          "wav"
+        ]
+      }
+    }
+  ]
+}

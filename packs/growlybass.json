@@ -1,0 +1,29 @@
+{
+  "id": "growlybass",
+  "name": "Growlybass",
+  "author": "Karoryfer Samples",
+  "description": "A Squier Jazz Bass played dirty, with release samples.",
+  "source": "https://github.com/sfzinstruments/karoryfer.growlybass",
+  "license": "CC0-1.0",
+  "kind": "multisample",
+  "tags": [
+    "bass",
+    "guitar"
+  ],
+  "versions": [
+    {
+      "version": "1.002",
+      "asset": {
+        "url": "https://github.com/sfzinstruments/karoryfer.growlybass/releases/download/v1.002/Karoryfer.Growlybass.v1.002.zip",
+        "sha256": "b92dca75494fa39d6e8d8b8addaabfe70c5aaa59b5f9a0f624be6de51a2374bc",
+        "size": 167454256,
+        "root": "Growlybass",
+        "files": 380,
+        "unpackedSize": 190765319,
+        "formats": [
+          "wav"
+        ]
+      }
+    }
+  ]
+}

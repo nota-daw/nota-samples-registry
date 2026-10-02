@@ -1,0 +1,28 @@
+{
+  "id": "emilyguitar",
+  "name": "Emilyguitar",
+  "author": "Karoryfer Samples",
+  "description": "An Epiphone Emily the Strange electric guitar.",
+  "source": "https://github.com/sfzinstruments/karoryfer.emilyguitar",
+  "license": "CC0-1.0",
+  "kind": "multisample",
+  "tags": [
+    "guitar"
+  ],
+  "versions": [
+    {
+      "version": "1.001",
+      "asset": {
+        "url": "https://github.com/sfzinstruments/karoryfer.emilyguitar/releases/download/v1.001/Karoryfer.Emilyguitar.v1.001.zip",
+        "sha256": "ffef3b28972763820bee73660a25cf47ea6e13b184342fd5d325a5631598cacb",
+        "size": 103484350,
+        "root": "Emilyguitar",
+        "files": 323,
+        "unpackedSize": 125538629,
+        "formats": [
+          "wav"
+        ]
+      }
+    }
+  ]
+}

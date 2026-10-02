@@ -1,0 +1,31 @@
+{
+  "id": "stargate-sample-pack",
+  "name": "Stargate Sample Pack",
+  "author": "Stargate DAW contributors",
+  "description": "Crowd-sourced drums, synths, loops and instruments, made to be redistributed freely with projects.",
+  "source": "https://github.com/stargatedaw/stargate-sample-pack",
+  "license": "CC0-1.0",
+  "kind": "mixed",
+  "tags": [
+    "drums",
+    "synth",
+    "loops"
+  ],
+  "versions": [
+    {
+      "version": "dbfd6ec",
+      "asset": {
+        "url": "https://github.com/stargatedaw/stargate-sample-pack/archive/dbfd6ec52d4ed53b60bdbea5fc6adf295127c027.zip",
+        "sha256": "edf9926f4b5ea7876de77ca503f4cf3ce9569860cc6ad71e9964c380affbdbd9",
+        "size": 197458267,
+        "root": "stargate-sample-pack-dbfd6ec52d4ed53b60bdbea5fc6adf295127c027",
+        "files": 348,
+        "unpackedSize": 270695740,
+        "formats": [
+          "aiff",
+          "wav"
+        ]
+      }
+    }
+  ]
+}

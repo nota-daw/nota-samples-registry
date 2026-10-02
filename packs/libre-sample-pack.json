@@ -1,0 +1,32 @@
+{
+  "id": "libre-sample-pack",
+  "name": "The Libre Sample Pack",
+  "author": "FOSS musicians",
+  "description": "Drums, synths, chords, melodies, vocals, FX and live instruments contributed by FOSS musicians.",
+  "source": "https://github.com/TheSmallTeaBoi/the-libre-sample-pack",
+  "license": "CC0-1.0",
+  "kind": "mixed",
+  "tags": [
+    "drums",
+    "synth",
+    "vocals",
+    "loops"
+  ],
+  "versions": [
+    {
+      "version": "23c0234",
+      "asset": {
+        "url": "https://github.com/TheSmallTeaBoi/the-libre-sample-pack/archive/23c02341707128162fc875e622f41b6af921fed3.zip",
+        "sha256": "82e352bf834cde829074444a0c8696843aacfd7f98e3383ce865e07ff1eb26d3",
+        "size": 378863318,
+        "root": "the-libre-sample-pack-23c02341707128162fc875e622f41b6af921fed3",
+        "files": 428,
+        "unpackedSize": 478530899,
+        "formats": [
+          "flac",
+          "wav"
+        ]
+      }
+    }
+  ]
+}

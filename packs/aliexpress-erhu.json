@@ -1,0 +1,29 @@
+{
+  "id": "aliexpress-erhu",
+  "name": "AliExpress Erhu",
+  "author": "Karoryfer Samples",
+  "description": "A cheap erhu, close-miked in stereo: long, short, sul tasto and marcato.",
+  "source": "https://github.com/sfzinstruments/aliexpress-erhu",
+  "license": "CC0-1.0",
+  "kind": "multisample",
+  "tags": [
+    "erhu",
+    "strings",
+    "folk"
+  ],
+  "versions": [
+    {
+      "version": "1.000",
+      "asset": {
+        "url": "https://github.com/sfzinstruments/aliexpress-erhu/releases/download/v1.000/aliexpress-erhu_v1000.zip",
+        "sha256": "2f54cc1a19ccd842f1c05eeb136416e680633ff4112201d14f6bf9931aad3fe0",
+        "size": 81597246,
+        "files": 170,
+        "unpackedSize": 92831014,
+        "formats": [
+          "wav"
+        ]
+      }
+    }
+  ]
+}

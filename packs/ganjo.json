@@ -1,0 +1,29 @@
+{
+  "id": "ganjo",
+  "name": "Ganjo",
+  "author": "itsclipping",
+  "description": "A six-string guitar banjo (SX), plucked and strummed.",
+  "source": "https://github.com/sfzinstruments/ganjo",
+  "license": "CC0-1.0",
+  "kind": "multisample",
+  "tags": [
+    "guitar",
+    "banjo"
+  ],
+  "versions": [
+    {
+      "version": "1.000",
+      "asset": {
+        "url": "https://github.com/sfzinstruments/ganjo/releases/download/v1.000/ganjo-v1.000.zip",
+        "sha256": "94f3e91cf74abab0b72e034ebf88e447af3682ae1c308625eb40f0b7b11488a1",
+        "size": 24314117,
+        "root": "ganjo",
+        "files": 61,
+        "unpackedSize": 26113135,
+        "formats": [
+          "wav"
+        ]
+      }
+    }
+  ]
+}

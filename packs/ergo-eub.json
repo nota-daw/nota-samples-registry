@@ -1,0 +1,29 @@
+{
+  "id": "ergo-eub",
+  "name": "Ergo",
+  "author": "Karoryfer Samples",
+  "description": "An Ergo electric upright bass.",
+  "source": "https://github.com/sfzinstruments/karoryfer.ergo",
+  "license": "CC0-1.0",
+  "kind": "multisample",
+  "tags": [
+    "bass",
+    "upright-bass"
+  ],
+  "versions": [
+    {
+      "version": "1.001",
+      "asset": {
+        "url": "https://github.com/sfzinstruments/karoryfer.ergo/releases/download/v1.001/Karoryfer.Ergo_EUB.v1.001.zip",
+        "sha256": "21202ec315d0f2cffabc7453dafed24451d27657929d4d90860c85f55e42e049",
+        "size": 200612492,
+        "root": "Ergo_EUB",
+        "files": 398,
+        "unpackedSize": 249062099,
+        "formats": [
+          "wav"
+        ]
+      }
+    }
+  ]
+}

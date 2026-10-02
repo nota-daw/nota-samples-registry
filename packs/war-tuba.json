@@ -1,0 +1,29 @@
+{
+  "id": "war-tuba",
+  "name": "War Tuba",
+  "author": "Karoryfer Samples",
+  "description": "A tuba played by Jakub Lewicki of the band Hańba!",
+  "source": "https://github.com/sfzinstruments/karoryfer.war-tuba",
+  "license": "CC0-1.0",
+  "kind": "multisample",
+  "tags": [
+    "tuba",
+    "brass"
+  ],
+  "versions": [
+    {
+      "version": "1.002",
+      "asset": {
+        "url": "https://github.com/sfzinstruments/karoryfer.war-tuba/releases/download/v1.002/Karoryfer_War_Tuba_v1002.zip",
+        "sha256": "4f0b065c18b89111df4281df34c5120cd2d5b9a0c6b316835ec08d7891fd88d9",
+        "size": 109135588,
+        "root": "War_tuba",
+        "files": 1443,
+        "unpackedSize": 140160781,
+        "formats": [
+          "wav"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": "cithara-barbarica",
+  "name": "Cithara Barbarica",
+  "author": "Karoryfer Samples",
+  "description": "A ten-string medieval lyre with metal strings, plucked and muted.",
+  "source": "https://github.com/sfzinstruments/cithara-barbarica",
+  "license": "CC0-1.0",
+  "kind": "multisample",
+  "tags": [
+    "lyre",
+    "folk"
+  ],
+  "versions": [
+    {
+      "version": "1.000",
+      "asset": {
+        "url": "https://github.com/sfzinstruments/cithara-barbarica/releases/download/v1.000/cithara-barbarica_v1000.zip",
+        "sha256": "e348ed12e7da31f526c7f943cf8e12fed6e6d69f5645d1c07ad01bea940c6f7e",
+        "size": 176634198,
+        "files": 200,
+        "unpackedSize": 239055053,
+        "formats": [
+          "wav"
+        ]
+      }
+    }
+  ]
+}

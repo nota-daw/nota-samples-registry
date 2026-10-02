@@ -1,0 +1,28 @@
+{
+  "id": "virtuosity-drums",
+  "name": "Virtuosity Drums",
+  "author": "Versilian Studios, Karoryfer Samples",
+  "description": "A jazz drum kit played with sticks by Austin McMahon, recorded live-style with six mic positions.",
+  "source": "https://github.com/sfzinstruments/virtuosity_drums",
+  "license": "CC0-1.0",
+  "kind": "one-shots",
+  "tags": [
+    "drums"
+  ],
+  "versions": [
+    {
+      "version": "0.925",
+      "asset": {
+        "url": "https://github.com/sfzinstruments/virtuosity_drums/releases/download/v0.925/Virtuosity_Drums_v0.925.zip",
+        "sha256": "c6c5d0fe11a394e94be3146a950c3377ec102cb57d189d5a23cec26183d1963a",
+        "size": 1227151376,
+        "files": 4858,
+        "unpackedSize": 1488795308,
+        "formats": [
+          "flac",
+          "wav"
+        ]
+      }
+    }
+  ]
+}

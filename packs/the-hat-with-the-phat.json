@@ -1,0 +1,28 @@
+{
+  "id": "the-hat-with-the-phat",
+  "name": "The Hat With The Phat",
+  "author": "Karoryfer Samples",
+  "description": "A giant hi-hat made of two ride cymbals.",
+  "source": "https://github.com/sfzinstruments/Karoryfer.TheHatWithThePhat",
+  "license": "CC0-1.0",
+  "kind": "one-shots",
+  "tags": [
+    "drums",
+    "cymbals"
+  ],
+  "versions": [
+    {
+      "version": "1.001",
+      "asset": {
+        "url": "https://github.com/sfzinstruments/Karoryfer.TheHatWithThePhat/releases/download/v1.001/The.Hat.With.The.Phat.bank.zip",
+        "sha256": "55a64a4b96071d4cc38c8f491de6a7b6bc3673b4ecfdc4a6929502a468285fbd",
+        "size": 666069141,
+        "files": 712,
+        "unpackedSize": 983405991,
+        "formats": [
+          "wav"
+        ]
+      }
+    }
+  ]
+}

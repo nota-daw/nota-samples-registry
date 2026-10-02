@@ -1,0 +1,28 @@
+# PRs and pushes: static checks everywhere, then download + unpack every asset of the
+# packs the change touches.
+name: validate
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Validate manifests
+        run: python3 scripts/registry.py validate
+      - name: Verify changed packs
+        run: |
+          base="${{ github.event.pull_request.base.sha || github.event.before }}"
+          if [ -z "$base" ] || ! git cat-file -e "$base" 2>/dev/null; then base="$(git rev-list --max-parents=0 HEAD)"; fi
+          ids=$(git diff --name-only --diff-filter=AM "$base" HEAD -- 'packs/*.json' | xargs -n1 basename 2>/dev/null | sed 's/\.json$//')
+          if [ -z "$ids" ]; then echo "No pack manifests changed."; exit 0; fi
+          python3 scripts/registry.py verify $ids

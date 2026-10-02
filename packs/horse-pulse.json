@@ -1,0 +1,28 @@
+{
+  "id": "horse-pulse",
+  "name": "Horse Pulse",
+  "author": "Karoryfer Samples",
+  "description": "A bass tagelharpa played pizzicato.",
+  "source": "https://github.com/sfzinstruments/Karoryfer.HorsePulse",
+  "license": "CC0-1.0",
+  "kind": "multisample",
+  "tags": [
+    "strings",
+    "folk"
+  ],
+  "versions": [
+    {
+      "version": "1.000",
+      "asset": {
+        "url": "https://github.com/sfzinstruments/Karoryfer.HorsePulse/releases/download/v1.000/Karoryfer_Horse_Pulse_1000.zip",
+        "sha256": "52157e831b82e0b1c512abda701f9133b8cd415b42a696b4d9b133946fa2e458",
+        "size": 147505176,
+        "files": 559,
+        "unpackedSize": 196068504,
+        "formats": [
+          "wav"
+        ]
+      }
+    }
+  ]
+}

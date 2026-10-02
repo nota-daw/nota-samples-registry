@@ -1,0 +1,28 @@
+{
+  "id": "shinyguitar",
+  "name": "Shinyguitar",
+  "author": "Karoryfer Samples",
+  "description": "An archtop guitar.",
+  "source": "https://github.com/sfzinstruments/karoryfer.shinyguitar",
+  "license": "CC0-1.0",
+  "kind": "multisample",
+  "tags": [
+    "guitar"
+  ],
+  "versions": [
+    {
+      "version": "1.002",
+      "asset": {
+        "url": "https://github.com/sfzinstruments/karoryfer.shinyguitar/releases/download/v1.002/Karoryfer.Shinyguitar.v1.002.zip",
+        "sha256": "23cf4030cbf9ce9e2c84d7cbb1c022fbca124bfff0ad118a14eda7cf6c921d7b",
+        "size": 368411844,
+        "root": "Shinyguitar",
+        "files": 846,
+        "unpackedSize": 460397483,
+        "formats": [
+          "wav"
+        ]
+      }
+    }
+  ]
+}

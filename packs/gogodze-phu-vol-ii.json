@@ -1,0 +1,29 @@
+{
+  "id": "gogodze-phu-vol-ii",
+  "name": "Gogodze Phu Vol. II",
+  "author": "Karoryfer Samples",
+  "description": "Kick, snare, three toms and hi-hat at variable fidelity, after the drums on Kim Jung Mi's 1973 album \"Now\".",
+  "source": "https://github.com/sfzinstruments/karoryfer.gogodze-phu-vol-ii",
+  "license": "CC0-1.0",
+  "kind": "one-shots",
+  "tags": [
+    "synth",
+    "drone"
+  ],
+  "versions": [
+    {
+      "version": "1.001",
+      "asset": {
+        "url": "https://github.com/sfzinstruments/karoryfer.gogodze-phu-vol-ii/releases/download/v1.001/Karoryfer_Gogodze_Phu_vol_II.v1.001.zip",
+        "sha256": "3ff7728f82001af2144e42d94c29770cded57389018e27d4a281f1a0496f7d49",
+        "size": 139517148,
+        "root": "Gogodze_Phu_vol_II",
+        "files": 1701,
+        "unpackedSize": 493835939,
+        "formats": [
+          "wav"
+        ]
+      }
+    }
+  ]
+}

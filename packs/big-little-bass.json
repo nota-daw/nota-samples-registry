@@ -1,0 +1,28 @@
+{
+  "id": "big-little-bass",
+  "name": "Big Little Bass",
+  "author": "Karoryfer Samples",
+  "description": "A huge hollowbody bass guitar played high up the neck, like a ukulele bass.",
+  "source": "https://github.com/sfzinstruments/karoryfer.big-little-bass",
+  "license": "CC0-1.0",
+  "kind": "multisample",
+  "tags": [
+    "bass",
+    "guitar"
+  ],
+  "versions": [
+    {
+      "version": "1.000",
+      "asset": {
+        "url": "https://github.com/sfzinstruments/karoryfer.big-little-bass/releases/download/v1.000/Big_Little_Bass_1000.zip",
+        "sha256": "f35d877f29853e027190e36cc3fdd8d59f3f54e65c8bbe320530087a10cbb4d9",
+        "size": 263554264,
+        "files": 440,
+        "unpackedSize": 318178079,
+        "formats": [
+          "wav"
+        ]
+      }
+    }
+  ]
+}

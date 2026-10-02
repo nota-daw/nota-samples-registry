@@ -1,0 +1,28 @@
+{
+  "id": "black-and-blue-basses",
+  "name": "Black And Blue Basses",
+  "author": "Karoryfer Samples",
+  "description": "Bass guitars, made for the KVR Developer Challenge 2023.",
+  "source": "https://github.com/sfzinstruments/karoryfer.black-and-blue-basses",
+  "license": "CC0-1.0",
+  "kind": "multisample",
+  "tags": [
+    "bass",
+    "guitar"
+  ],
+  "versions": [
+    {
+      "version": "1.002",
+      "asset": {
+        "url": "https://github.com/sfzinstruments/karoryfer.black-and-blue-basses/releases/download/v1.002/Black_And_Blue_Basses_1002.zip",
+        "sha256": "cf77fc782abf996826fe75cfd948d356968de7c8b967c471c6a433835d2b4f55",
+        "size": 1008690586,
+        "files": 2208,
+        "unpackedSize": 1134211746,
+        "formats": [
+          "wav"
+        ]
+      }
+    }
+  ]
+}

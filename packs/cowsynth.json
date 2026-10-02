@@ -1,0 +1,28 @@
+{
+  "id": "cowsynth",
+  "name": "Cowsynth",
+  "author": "Karoryfer Samples",
+  "description": "A sample-based synth built from recordings of cows.",
+  "source": "https://github.com/sfzinstruments/karoryfer.cowsynth",
+  "license": "CC0-1.0",
+  "kind": "multisample",
+  "tags": [
+    "synth"
+  ],
+  "versions": [
+    {
+      "version": "1.001",
+      "asset": {
+        "url": "https://github.com/sfzinstruments/karoryfer.cowsynth/releases/download/v1.001/Karoryfer.Cowsynth.v1.001.zip",
+        "sha256": "2c80a928db69280d3f8f4d066383c9f6adc0d8ba086c6f1a1abe2c5eaa5fc239",
+        "size": 14072509,
+        "root": "Cowsynth",
+        "files": 40,
+        "unpackedSize": 14832612,
+        "formats": [
+          "wav"
+        ]
+      }
+    }
+  ]
+}

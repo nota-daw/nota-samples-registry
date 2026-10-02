@@ -1,0 +1,29 @@
+{
+  "id": "osiris-piano",
+  "name": "Osiris Piano",
+  "author": "Versilian Studios, Karoryfer Samples",
+  "description": "A piano with una corda, sustain and three mic positions, in clean and noisy versions.",
+  "source": "https://github.com/sfzinstruments/Osiris_Piano",
+  "license": "CC0-1.0",
+  "kind": "multisample",
+  "tags": [
+    "piano",
+    "keys"
+  ],
+  "versions": [
+    {
+      "version": "0.925",
+      "asset": {
+        "url": "https://github.com/sfzinstruments/Osiris_Piano/releases/download/v0.925/Osiris_Piano_0925.zip",
+        "sha256": "54ef210b671ea38c4e77291714b5376af28f35803f7c1338737d0f402de02768",
+        "size": 458671376,
+        "root": "Osiris Piano",
+        "files": 1242,
+        "unpackedSize": 489931629,
+        "formats": [
+          "flac"
+        ]
+      }
+    }
+  ]
+}

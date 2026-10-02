@@ -1,0 +1,28 @@
+{
+  "id": "272-merry-orks",
+  "name": "272 Merry Orks",
+  "author": "Karoryfer Samples",
+  "description": "Female death metal vocals, plus monster-voice sound design material.",
+  "source": "https://github.com/sfzinstruments/karoryfer.272-merry-orks",
+  "license": "CC0-1.0",
+  "kind": "multisample",
+  "tags": [
+    "orchestra"
+  ],
+  "versions": [
+    {
+      "version": "1.001",
+      "asset": {
+        "url": "https://github.com/sfzinstruments/karoryfer.272-merry-orks/releases/download/v1.001/Karoryfer.272_Merry_Orks.v1.001.zip",
+        "sha256": "c5151c24a57fddfc3997d52df3506bbfceaf4ed897fc587ee4190ba79886c427",
+        "size": 40439723,
+        "root": "272_Merry_Orks",
+        "files": 272,
+        "unpackedSize": 45627888,
+        "formats": [
+          "wav"
+        ]
+      }
+    }
+  ]
+}

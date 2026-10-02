@@ -1,0 +1,28 @@
+{
+  "id": "hungarian-zither",
+  "name": "Hungarian Zither",
+  "author": "Karoryfer Samples",
+  "description": "A Hungarian prime zither in G, strummed and played on the melody strings.",
+  "source": "https://github.com/sfzinstruments/hungarian_zither",
+  "license": "CC0-1.0",
+  "kind": "multisample",
+  "tags": [
+    "zither",
+    "folk"
+  ],
+  "versions": [
+    {
+      "version": "1.001",
+      "asset": {
+        "url": "https://github.com/sfzinstruments/hungarian_zither/releases/download/v1.001/hungarian_prime_zither_1001.zip",
+        "sha256": "49962554dc9480870ee9ae959e36789448d940709164291799c8027f6e276119",
+        "size": 176636805,
+        "files": 210,
+        "unpackedSize": 178322900,
+        "formats": [
+          "flac"
+        ]
+      }
+    }
+  ]
+}

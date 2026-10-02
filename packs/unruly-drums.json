@@ -1,0 +1,28 @@
+{
+  "id": "unruly-drums",
+  "name": "Unruly Drums",
+  "author": "Karoryfer Samples",
+  "description": "A drum kit where every drum, the kick included, has snare wires on it.",
+  "source": "https://github.com/sfzinstruments/karoryfer.unruly-drums",
+  "license": "CC0-1.0",
+  "kind": "one-shots",
+  "tags": [
+    "drums"
+  ],
+  "versions": [
+    {
+      "version": "1.100",
+      "asset": {
+        "url": "https://github.com/sfzinstruments/karoryfer.unruly-drums/releases/download/v1.100/Unruly_Drums_1100.zip",
+        "sha256": "8d8d8075570088658cfce5de6cc6df1fa1340cac9ec808da130e19b1463b1f90",
+        "size": 676343466,
+        "files": 5865,
+        "unpackedSize": 815495939,
+        "formats": [
+          "flac",
+          "wav"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "pastabass",
+  "name": "Pastabass",
+  "author": "Karoryfer Samples",
+  "description": "A Squier Bass VI with roundwound and flatwound strings.",
+  "source": "https://github.com/sfzinstruments/karoryfer.pastabass",
+  "license": "CC0-1.0",
+  "kind": "multisample",
+  "tags": [
+    "bass",
+    "guitar"
+  ],
+  "versions": [
+    {
+      "version": "1.101",
+      "asset": {
+        "url": "https://github.com/sfzinstruments/karoryfer.pastabass/releases/download/v1.101/Karoryfer.Pastabass.v1.101.zip",
+        "sha256": "df2bf12256e24bb3407d204105365cf29f4b8d90211225ee1a9d507f0670805c",
+        "size": 315271331,
+        "root": "Pastabass",
+        "files": 766,
+        "unpackedSize": 487225255,
+        "formats": [
+          "wav"
+        ]
+      }
+    }
+  ]
+}

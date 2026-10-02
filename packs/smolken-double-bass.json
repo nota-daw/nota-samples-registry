@@ -1,0 +1,29 @@
+{
+  "id": "smolken-double-bass",
+  "name": "Double Bass",
+  "author": "D. Smolken",
+  "description": "A 1958 Otto Rubner double bass, arco and pizzicato, with noises.",
+  "source": "https://github.com/sfzinstruments/dsmolken.double-bass",
+  "license": "CC0-1.0",
+  "kind": "multisample",
+  "tags": [
+    "bass",
+    "double-bass"
+  ],
+  "versions": [
+    {
+      "version": "1.001",
+      "asset": {
+        "url": "https://github.com/sfzinstruments/dsmolken.double-bass/releases/download/v1.001/DSmolken.double_bass.v1.001.zip",
+        "sha256": "380986bb52ee6b6469d28e9089792a3ed37cbd163fe5a19160bf4f98785e7ccb",
+        "size": 265232156,
+        "root": "dsmolken_double_bass",
+        "files": 401,
+        "unpackedSize": 288893301,
+        "formats": [
+          "wav"
+        ]
+      }
+    }
+  ]
+}
