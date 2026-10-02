@@ -19,10 +19,9 @@
         "sha256": "edf9926f4b5ea7876de77ca503f4cf3ce9569860cc6ad71e9964c380affbdbd9",
         "size": 197458267,
         "root": "stargate-sample-pack-dbfd6ec52d4ed53b60bdbea5fc6adf295127c027",
-        "files": 348,
-        "unpackedSize": 270695740,
+        "files": 346,
+        "unpackedSize": 270315218,
         "formats": [
-          "aiff",
           "wav"
         ]
       }

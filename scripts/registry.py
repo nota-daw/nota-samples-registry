@@ -33,8 +33,9 @@ CACHE = Path(os.environ.get("NOTA_REGISTRY_CACHE", ROOT / ".cache"))
 SCHEMA_VERSION = 1
 KINDS = {"one-shots", "loops", "multisample", "mixed"}
 ARCHIVES = {"zip", "tar"}
-# Audio Nota can load; these are counted as the pack's samples.
-AUDIO = {"wav", "wave", "aif", "aiff", "flac", "mp3", "ogg"}
+# Audio Nota's engine decodes (by extension); these are counted as the pack's samples. Other
+# audio (aiff, ogg) is skipped like any other file until Nota can load it.
+AUDIO = {"wav", "flac", "mp3"}
 # What else Nota installs alongside the samples. Anything outside AUDIO + EXTRAS (synth presets,
 # DAW projects, an .exe) is skipped when installing and doesn't count towards unpackedSize.
 EXTRAS = {"txt", "md", "pdf", "rtf", "html", "htm", "sfz", "mid", "midi", "png", "jpg", "jpeg",

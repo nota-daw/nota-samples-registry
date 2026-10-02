@@ -19,9 +19,9 @@ it and checks the size and sha256 against the manifest before unpacking it.
   aren't listed.
 - **Pinned.** Every pack has its exact `size` and `sha256`, plus what it unpacks to (`files`,
   `unpackedSize`, `formats`). A re-uploaded archive fails verification until the manifest is updated.
-- **Samples Nota can load.** wav, aiff, flac, mp3 or ogg. Nota installs those plus docs and mappings
-  (txt, md, pdf, sfz, mid, images); everything else in the archive (synth presets, Kontakt files, DAW
-  projects) is skipped.
+- **Samples Nota can load.** wav, flac or mp3. Nota installs those plus docs and mappings
+  (txt, md, pdf, sfz, mid, images); everything else in the archive (aiff/ogg, synth presets, Kontakt
+  files, DAW projects) is skipped.
 - **Recorded or synthesized by the author.** No rips of other libraries, hardware ROMs or records.
 
 ## Manifest
