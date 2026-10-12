@@ -1,0 +1,30 @@
+{
+  "id": "dim-cabasa",
+  "name": "Dim Cabasa",
+  "author": "kinwie",
+  "description": "A cabasa played by Dimas Syah: 250 direct, unprocessed 24-bit hits.",
+  "source": "https://github.com/sfzinstruments/kinwie.dim-cabasa",
+  "license": "CC-BY-4.0",
+  "attribution": "Dim Cabasa by kinwie, played by Dimas Syah (CC-BY-4.0)",
+  "kind": "one-shots",
+  "tags": [
+    "percussion"
+  ],
+  "notes": "The SFZ mapping uses SFZ level 2 with ARIA extensions, best in sforzando.",
+  "versions": [
+    {
+      "version": "016457e",
+      "asset": {
+        "url": "https://github.com/sfzinstruments/kinwie.dim-cabasa/archive/016457e51a3e6558ab49676789260b54ff52ff1b.zip",
+        "sha256": "499bbff879165cac8f562826c5bb8369ce5bbd95f5764bdc71aadb69a03219d5",
+        "size": 10825373,
+        "root": "kinwie.dim-cabasa-016457e51a3e6558ab49676789260b54ff52ff1b",
+        "files": 250,
+        "unpackedSize": 11795011,
+        "formats": [
+          "flac"
+        ]
+      }
+    }
+  ]
+}

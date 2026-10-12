@@ -1,0 +1,30 @@
+{
+  "id": "steel-drum",
+  "name": "Steel Drum",
+  "author": "Jeff Learman",
+  "description": "A hand-made C tenor steel drum, 24 notes with five velocity layers.",
+  "source": "https://github.com/sfzinstruments/jlearman.SteelDrum",
+  "license": "Unlicense",
+  "kind": "multisample",
+  "tags": [
+    "steel-drum",
+    "percussion"
+  ],
+  "versions": [
+    {
+      "version": "dc15a36",
+      "asset": {
+        "url": "https://github.com/sfzinstruments/jlearman.SteelDrum/archive/dc15a36ad69a43b0d240fcbd0cc78fbc61b2b47e.zip",
+        "sha256": "ae65eeba3971ef910ac138c0221cef3f86a4de7578eedeb381f05e1050e085f6",
+        "size": 39763772,
+        "root": "jlearman.SteelDrum-dc15a36ad69a43b0d240fcbd0cc78fbc61b2b47e",
+        "files": 369,
+        "unpackedSize": 43390741,
+        "formats": [
+          "flac",
+          "mp3"
+        ]
+      }
+    }
+  ]
+}

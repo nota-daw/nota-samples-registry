@@ -1,0 +1,30 @@
+{
+  "id": "muldjord-kit",
+  "name": "Muldjord Kit",
+  "author": "Lars Muldjord",
+  "description": "A Tama Superstar kit recorded by Lars Muldjord of DrumGizmo; stereo version for sfz players.",
+  "source": "https://github.com/sfzinstruments/DrumGizmo.MuldjordKit",
+  "license": "CC-BY-4.0",
+  "attribution": "Muldjord Kit by Lars Muldjord of DrumGizmo; SFZ conversion by kinwie (CC-BY-4.0)",
+  "kind": "one-shots",
+  "tags": [
+    "drums"
+  ],
+  "notes": "The SFZ mapping uses SFZ level 2 with ARIA extensions, best in sforzando.",
+  "versions": [
+    {
+      "version": "fc16571",
+      "asset": {
+        "url": "https://github.com/sfzinstruments/DrumGizmo.MuldjordKit/archive/fc165714974aa843125ce88597f341b31376e1d5.zip",
+        "sha256": "98ed34f4d5fbb47c72cd760c458db0528aa71f28d7dd219652a145d5d8ce3259",
+        "size": 346255411,
+        "root": "DrumGizmo.MuldjordKit-fc165714974aa843125ce88597f341b31376e1d5",
+        "files": 4064,
+        "unpackedSize": 347280240,
+        "formats": [
+          "flac"
+        ]
+      }
+    }
+  ]
+}

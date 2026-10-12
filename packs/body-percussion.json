@@ -1,0 +1,28 @@
+{
+  "id": "body-percussion",
+  "name": "Body Percussion",
+  "author": "D. Smolken",
+  "description": "Body percussion one-shots - claps, stomps and slaps with round robins and velocity layers.",
+  "source": "https://github.com/sfzinstruments/body_percussion",
+  "license": "CC0-1.0",
+  "kind": "one-shots",
+  "tags": [
+    "percussion"
+  ],
+  "versions": [
+    {
+      "version": "4ac9d89",
+      "asset": {
+        "url": "https://github.com/sfzinstruments/body_percussion/archive/4ac9d8966679c648b62fa10a188179e186b97f24.zip",
+        "sha256": "5a4a9dbf23c4f499c8a113e1be7f3a4128d8968c9ca279e192a8724ddd200c9f",
+        "size": 39120945,
+        "root": "body_percussion-4ac9d8966679c648b62fa10a188179e186b97f24",
+        "files": 202,
+        "unpackedSize": 61733852,
+        "formats": [
+          "wav"
+        ]
+      }
+    }
+  ]
+}

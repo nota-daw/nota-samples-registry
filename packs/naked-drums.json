@@ -1,0 +1,30 @@
+{
+  "id": "naked-drums",
+  "name": "Naked Drums",
+  "author": "Wilkinson Audio",
+  "description": "A Yamaha Recording Custom kit with many mics, 10 round robins and several velocity layers.",
+  "source": "https://github.com/sfzinstruments/WilkinsonAudio.NakedDrums",
+  "license": "CC-BY-4.0",
+  "attribution": "Naked Drums by Wilkinson Audio, SFZ conversion by kinwie (CC-BY-4.0)",
+  "kind": "one-shots",
+  "tags": [
+    "drums"
+  ],
+  "notes": "The SFZ mapping uses SFZ level 2 with ARIA extensions, best in sforzando.",
+  "versions": [
+    {
+      "version": "407732a",
+      "asset": {
+        "url": "https://github.com/sfzinstruments/WilkinsonAudio.NakedDrums/archive/407732a548606ac715ad8f3fbac63d9f4df77c0d.zip",
+        "sha256": "a58f73d1c143f77809e45395965895b513890fa2cc7f902172e407862fcc7f11",
+        "size": 1283095413,
+        "root": "WilkinsonAudio.NakedDrums-407732a548606ac715ad8f3fbac63d9f4df77c0d",
+        "files": 3840,
+        "unpackedSize": 1284992716,
+        "formats": [
+          "flac"
+        ]
+      }
+    }
+  ]
+}

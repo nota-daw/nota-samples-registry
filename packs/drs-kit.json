@@ -1,0 +1,30 @@
+{
+  "id": "drs-kit",
+  "name": "DRS Kit",
+  "author": "DrumGizmo team",
+  "description": "A handcrafted DRS Drums kit recorded by the DrumGizmo team; stereo version for sfz players.",
+  "source": "https://github.com/sfzinstruments/DrumGizmo.DRSKit",
+  "license": "CC-BY-4.0",
+  "attribution": "DRS Kit by the DrumGizmo team and Jes Eiler of DRS Drums; SFZ conversion by kinwie (CC-BY-4.0)",
+  "kind": "one-shots",
+  "tags": [
+    "drums"
+  ],
+  "notes": "The SFZ mapping uses SFZ level 2 with ARIA extensions, best in sforzando.",
+  "versions": [
+    {
+      "version": "b014489",
+      "asset": {
+        "url": "https://github.com/sfzinstruments/DrumGizmo.DRSKit/archive/b01448990a31f722542f1812e56159a97a6a2a82.zip",
+        "sha256": "43e3b0798c076dd3707e72e6289841a3a10388cf6cda425719065f199975e398",
+        "size": 755269776,
+        "root": "DrumGizmo.DRSKit-b01448990a31f722542f1812e56159a97a6a2a82",
+        "files": 6019,
+        "unpackedSize": 754296296,
+        "formats": [
+          "flac"
+        ]
+      }
+    }
+  ]
+}

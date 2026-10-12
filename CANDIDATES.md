@@ -23,8 +23,21 @@ keeps track of the rest so nobody checks them twice.
 | [psemiletov/drum_sklad](https://github.com/psemiletov/drum_sklad) | Kits sampled from commercial drum machine ROMs |
 | [archive.org "drum machine samples"](https://archive.org/details/drum-machines-collection) | No license, recordings of commercial machines |
 | [cleary/samples-hydrogen-drums](https://github.com/cleary/samples-hydrogen-drums) | GPL-2.0, not a license meant for samples; take the original Hydrogen kits with clear licenses instead |
-| sfzinstruments repos without a release (DrumGizmo kits, Headroom Piano, Naked Drums, Solo Sax, …) | CC-BY-4.0 but no release archive; the repo archives work (`add.py --commit`) once someone checks each one's attribution |
-| Salamander Grand Piano, Splendid Grand Piano, Maestro Concert Grand (sfzinstruments) | License not stated in the repo (Salamander upstream is CC-BY-3.0; add from upstream) |
+| [FlameStudios.Kay5StringBanjo](https://github.com/sfzinstruments/FlameStudios.Kay5StringBanjo) | GPL-3.0-or-later, same reason as above |
+| jRhodes3c, jRhodes3d, [Project16Rickenbacker4001](https://github.com/sfzinstruments/Project16Rickenbacker4001), MF Tin Whistle | CC-BY-NC / CC-BY-NC-SA licenses; Nota lists no NC packs |
+| Splendid Grand Piano (sfzinstruments) | A rip of a commercial AKAI library, not recorded by the poster |
+| Maestro Concert Grand (sfzinstruments) | Custom license, only free for personal use |
+| [GTownChurchSamplingProject](https://github.com/sfzinstruments/GTownChurchSamplingProject) | CC Sampling Plus 1.0, a retired license outside the allowed list |
+| Unreal Instruments packs (Standard Guitar/Bass, 1912, Koto, Metal GTX, The Slapper, Epic Tom, Kitchen X, Wind Chime) | Custom "free" license, no open license stated |
+| Greg Sullivan E-Pianos (sfzinstruments) | CC-BY-3.0 stated only on the sfzinstruments listing; neither the repo nor the author's site states a license |
+| Terkelsen Marimba/Mandolin, Kastendieck.SteelDrum, Starbirth.KuduShofar, TicTokMen kits, OvationGuitar, PickedLapharp, Krumhorn, Clavecin, OrgueEglise, DamiensFunkyGuitar, SMDrums (sfzinstruments) | No license stated anywhere |
+| [EthanWiner.Soundfonts](https://github.com/sfzinstruments/EthanWiner.Soundfonts) | Soundfonts (.sf2), not wav/flac/mp3 that Nota installs |
+| [Discord-SFZ-GM-Bank](https://github.com/sfzinstruments/Discord-SFZ-GM-Bank) | A compiled GM bank of other people's samples |
+| Pianobook packs (Church Steinway, ...) | No license stated on the listing (Pianobook defaults are NC) |
+| Etherealwinds Harp II CE, MSLP Vibes (Bandshed), LivingRoom Upright (KeyPleezer), Accurate-Salamander | Open license, but the download is a direct link on the author's site - no GitHub release/repo archive/archive.org to pin |
+| Piano in 162 (Ivy Audio) | No license stated and ivyaudio.com is gone |
+| Salamander Grand Piano (sfzinstruments) | License not stated in the repo (Salamander upstream is CC-BY-3.0; add from upstream) |
+| Karoryfer paid packs, Garritan, Production Voices, VG Trumpet, Versilian (paid), TKD Sound, fisound, Wave Alchemy, Samples From Mars, Plogue Sforzatron, BPB Game Boy kit | Commercial, or a freebie without an open license |
 | [legato_vocal_tutorial](https://github.com/sfzinstruments/legato_vocal_tutorial) | A tutorial, not a pack |
 | Freesound packs | Original files need an OAuth login to download |
 | 99Sounds, SampleScience, BVKER and other "royalty-free" sites | Email walls or no redistribution / hotlinking allowed |

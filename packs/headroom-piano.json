@@ -1,0 +1,30 @@
+{
+  "id": "headroom-piano",
+  "name": "Headroom Piano",
+  "author": "Bengt Nilsson",
+  "description": "A Yamaha C3 grand piano with two mic positions and five velocity layers.",
+  "source": "https://github.com/sfzinstruments/BengtNilsson.HeadroomPiano",
+  "license": "CC-BY-4.0",
+  "attribution": "Headroom Piano by Bengt Nilsson, SFZ conversion by kinwie (CC-BY-4.0)",
+  "kind": "multisample",
+  "tags": [
+    "piano"
+  ],
+  "notes": "The SFZ mapping targets ARIA-based players such as sforzando.",
+  "versions": [
+    {
+      "version": "2a7df3f",
+      "asset": {
+        "url": "https://github.com/sfzinstruments/BengtNilsson.HeadroomPiano/archive/2a7df3f7252227a3484202c1d61bc1bfe352a971.zip",
+        "sha256": "13ca4be08891e630ef5df8a19969287070451a361260f4ce921af5fa37de8f22",
+        "size": 140565416,
+        "root": "BengtNilsson.HeadroomPiano-2a7df3f7252227a3484202c1d61bc1bfe352a971",
+        "files": 300,
+        "unpackedSize": 156227297,
+        "formats": [
+          "flac"
+        ]
+      }
+    }
+  ]
+}

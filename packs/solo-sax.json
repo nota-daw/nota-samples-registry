@@ -1,0 +1,31 @@
+{
+  "id": "solo-sax",
+  "name": "MTG Solo Sax",
+  "author": "Music Technology Group",
+  "description": "A complete set of soprano, alto, tenor and baritone solo saxophones.",
+  "source": "https://github.com/sfzinstruments/MTG.SoloSax",
+  "license": "CC-BY-4.0",
+  "attribution": "Solo Saxophones by the Music Technology Group, Universitat Pompeu Fabra; SFZ conversion by kinwie (CC-BY-4.0)",
+  "kind": "multisample",
+  "tags": [
+    "saxophone",
+    "wind"
+  ],
+  "notes": "The SFZ mapping uses SFZ level 2 with ARIA extensions, best in sforzando.",
+  "versions": [
+    {
+      "version": "b494d25",
+      "asset": {
+        "url": "https://github.com/sfzinstruments/MTG.SoloSax/archive/b494d256549b3d088fdec176ce82867f8a1f58b2.zip",
+        "sha256": "ea91b5b7ac3199701155a49a22fc4f221bd7c74865ebdad5f12a917352b6d291",
+        "size": 105062187,
+        "root": "MTG.SoloSax-b494d256549b3d088fdec176ce82867f8a1f58b2",
+        "files": 737,
+        "unpackedSize": 110931965,
+        "formats": [
+          "flac"
+        ]
+      }
+    }
+  ]
+}

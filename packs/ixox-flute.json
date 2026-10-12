@@ -1,0 +1,31 @@
+{
+  "id": "ixox-flute",
+  "name": "Ixox Flute",
+  "author": "Xavier Hosxe",
+  "description": "A flute from Xavier Hosxe's free Ixox VSTi, looped and mapped for sforzando.",
+  "source": "https://github.com/sfzinstruments/Ixox.Flute",
+  "license": "CC-BY-4.0",
+  "attribution": "Ixox Flute by Xavier Hosxe, SFZ conversion by kinwie (CC-BY-4.0)",
+  "kind": "multisample",
+  "tags": [
+    "flute",
+    "wind"
+  ],
+  "notes": "The SFZ mapping uses SFZ level 2 with ARIA extensions, best in sforzando.",
+  "versions": [
+    {
+      "version": "0cc5446",
+      "asset": {
+        "url": "https://github.com/sfzinstruments/Ixox.Flute/archive/0cc54468bb0d2d9b32921958585caad65ba8df21.zip",
+        "sha256": "60a0f8f0514ce0de920853433c05fcb3524bab435d5822c3c95caa0cf0d1da5a",
+        "size": 9538321,
+        "root": "Ixox.Flute-0cc54468bb0d2d9b32921958585caad65ba8df21",
+        "files": 81,
+        "unpackedSize": 10215373,
+        "formats": [
+          "flac"
+        ]
+      }
+    }
+  ]
+}

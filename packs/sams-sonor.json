@@ -1,0 +1,30 @@
+{
+  "id": "sams-sonor",
+  "name": "Sam's Sonor",
+  "author": "Sam Greene",
+  "description": "A Sonor Force 3001 kit sampled by Sam Greene, with velocity layers and snare rolls.",
+  "source": "https://github.com/sfzinstruments/SamsSonor",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "Sam's Sonor by Sam Greene, SFZ conversion by kinwie (CC-BY-SA-4.0)",
+  "kind": "one-shots",
+  "tags": [
+    "drums"
+  ],
+  "notes": "The SFZ mapping uses SFZ level 2 with ARIA extensions, best in sforzando.",
+  "versions": [
+    {
+      "version": "ef3e320",
+      "asset": {
+        "url": "https://github.com/sfzinstruments/SamsSonor/archive/ef3e32058924ed1c3335e86d03094d3f310a9104.zip",
+        "sha256": "fcbca4dd398666f2908995218394c3af938817580304316f618dead41eaaff2c",
+        "size": 36203868,
+        "root": "SamsSonor-ef3e32058924ed1c3335e86d03094d3f310a9104",
+        "files": 114,
+        "unpackedSize": 36455018,
+        "formats": [
+          "flac"
+        ]
+      }
+    }
+  ]
+}
