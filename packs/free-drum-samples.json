@@ -13,17 +13,17 @@
     "808",
     "drum-kit"
   ],
-  "notes": "Contains three curated drum kits. Some samples derive from the CC0 TR-808 sample set by Edward Loveall. Additional 808 tones were synthesized, and the Soulful Vintage kit uses down-sampling and bit-crushing. No attribution is required under the repository's stated CC0 license.",
+  "notes": "Contains three curated drum kits. Some samples use Edward Loveall's CC0 TR-808 set; others are synthesized. Soulful Vintage uses down-sampling and bit-crushing. No attribution is required under the CC0 license.",
   "versions": [
     {
       "version": "main",
       "asset": {
         "url": "https://github.com/Boochi44/free-drum-samples/archive/refs/heads/main.zip",
         "sha256": "641474abfcf935b111a7f968fa32c1f9de9ee8c7f60982339934328c6ba7a2e4",
-        "size": 0,
+        "size": 2054437,
         "root": "free-drum-samples-main",
-        "files": 0,
-        "unpackedSize": 0,
+        "files": 59,
+        "unpackedSize": 3796934,
         "formats": [
           "wav"
         ]
