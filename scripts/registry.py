@@ -52,7 +52,8 @@ SHA_RE = re.compile(r"^[0-9a-f]{64}$")
 GH_RELEASE_RE = re.compile(r"^https://github\.com/([^/]+/[^/]+)/releases/download/[^/]+/[^/]+$")
 URL_RES = [
     GH_RELEASE_RE,
-    re.compile(r"^https://github\.com/[^/]+/[^/]+/archive/(refs/tags/)?[^/]+\.(zip|tar\.gz)$"),
+    # re.compile(r"^https://github\.com/[^/]+/[^/]+/archive/(refs/tags/)?[^/]+\.(zip|tar\.gz)$"),
+    re.compile(r"^https://github\.com/[^/]+/[^/]+/archive/(refs/(tags|heads)/)?[^/]+\.(zip|tar\.gz)$"),
     re.compile(r"^https://archive\.org/download/[^/]+/.+$"),
 ]
 PREVIEW_RES = URL_RES + [re.compile(r"^https://raw\.githubusercontent\.com/[^/]+/[^/]+/[0-9a-f]{40}/.+\.(ogg|mp3|wav|flac)$")]
