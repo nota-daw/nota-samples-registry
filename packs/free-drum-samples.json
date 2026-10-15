@@ -1,0 +1,33 @@
+{
+  "id": "free-drum-samples",
+  "name": "Free Drum Samples (Boochi44)",
+  "author": "Boochi44",
+  "description": "Three curated drum kits for hip-hop and trap production: Hard Trap, Bounce, and Soulful Vintage. Includes kicks, 808s, snares, claps, hi-hats, percussion, and effects.",
+  "source": "https://github.com/Boochi44/free-drum-samples",
+  "license": "CC0-1.0",
+  "kind": "one-shots",
+  "tags": [
+    "drums",
+    "hip-hop",
+    "trap",
+    "808",
+    "drum-kit"
+  ],
+  "notes": "Contains three curated drum kits. Some samples use Edward Loveall's CC0 TR-808 set; others are synthesized. Soulful Vintage uses down-sampling and bit-crushing. No attribution is required under the CC0 license.",
+  "versions": [
+    {
+      "version": "main",
+      "asset": {
+        "url": "https://github.com/Boochi44/free-drum-samples/archive/refs/heads/main.zip",
+        "sha256": "641474abfcf935b111a7f968fa32c1f9de9ee8c7f60982339934328c6ba7a2e4",
+        "size": 2054437,
+        "root": "free-drum-samples-main",
+        "files": 59,
+        "unpackedSize": 3796934,
+        "formats": [
+          "wav"
+        ]
+      }
+    }
+  ]
+}

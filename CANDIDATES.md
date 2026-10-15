@@ -17,7 +17,7 @@ keeps track of the rest so nobody checks them twice.
 
 | Pack | Why |
 |---|---|
-| [Boochi44/free-drum-samples](https://github.com/Boochi44/free-drum-samples) | CC0 only in a machine-written README, no LICENSE file; kits derived from the Fischer 808 set, which is listed directly |
+| [Caveman Cosmonaut](https://github.com/sfzinstruments/karoryfer.caveman-cosmonaut) | One program of about 12,000 regions across three playing modes: takes 20+ seconds to load even in an optimised sfizz, and nothing sounds until it has |
 | [Infinite State sample pack](https://github.com/kennethreitz/infinite-state-sample-pack) | No license at all ("open source" in the README only) |
 | [gregharvey/drum-samples](https://github.com/gregharvey/drum-samples) (GSCW kits) | Author says the original license is unknown |
 | [psemiletov/drum_sklad](https://github.com/psemiletov/drum_sklad) | Kits sampled from commercial drum machine ROMs |

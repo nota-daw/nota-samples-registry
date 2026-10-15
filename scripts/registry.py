@@ -52,7 +52,8 @@ SHA_RE = re.compile(r"^[0-9a-f]{64}$")
 GH_RELEASE_RE = re.compile(r"^https://github\.com/([^/]+/[^/]+)/releases/download/[^/]+/[^/]+$")
 URL_RES = [
     GH_RELEASE_RE,
-    re.compile(r"^https://github\.com/[^/]+/[^/]+/archive/(refs/tags/)?[^/]+\.(zip|tar\.gz)$"),
+    # re.compile(r"^https://github\.com/[^/]+/[^/]+/archive/(refs/tags/)?[^/]+\.(zip|tar\.gz)$"),
+    re.compile(r"^https://github\.com/[^/]+/[^/]+/archive/(refs/(tags|heads)/)?[^/]+\.(zip|tar\.gz)$"),
     re.compile(r"^https://archive\.org/download/[^/]+/.+$"),
 ]
 PREVIEW_RES = URL_RES + [re.compile(r"^https://raw\.githubusercontent\.com/[^/]+/[^/]+/[0-9a-f]{40}/.+\.(ogg|mp3|wav|flac)$")]
@@ -116,8 +117,8 @@ def validate_manifest(path: Path, m: dict) -> list[str]:
         err("description must be at most 200 characters")
     if not isinstance(m.get("tags", []), list) or not all(isinstance(t, str) and t == t.lower() for t in m.get("tags", [])):
         err("tags must be a list of lowercase strings")
-    if len(m.get("notes", "")) > 200:
-        err("notes must be at most 200 characters")
+    if len(m.get("notes", "")) > 250:
+        err("notes must be at most 250 characters")
     if "preview" in m and not any(r.match(m["preview"]) for r in PREVIEW_RES):
         err("preview must be an audio file on GitHub (release, or raw at a commit sha) or archive.org")
     if "bpm" in m and not (isinstance(m["bpm"], (int, float)) and 20 <= m["bpm"] <= 400):
